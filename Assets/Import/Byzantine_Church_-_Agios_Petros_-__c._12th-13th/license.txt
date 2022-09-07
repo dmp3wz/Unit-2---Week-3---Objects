@@ -1,0 +1,11 @@
+Model Information:
+* title:	Byzantine Church - Agios Petros -  c. 12th-13th
+* source:	https://sketchfab.com/3d-models/byzantine-church-agios-petros-c-12th-13th-7cf515073def45debaf6274a3276b39b
+* author:	Panomedia (https://sketchfab.com/panomedia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Byzantine Church - Agios Petros -  c. 12th-13th" (https://sketchfab.com/3d-models/byzantine-church-agios-petros-c-12th-13th-7cf515073def45debaf6274a3276b39b) by Panomedia (https://sketchfab.com/panomedia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

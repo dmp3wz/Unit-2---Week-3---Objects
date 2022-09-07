@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blue Mamba Car
+* source:	https://sketchfab.com/3d-models/blue-mamba-car-1dddc8a3d8cd4931a5c8f23ffa2d1954
+* author:	Linda (https://sketchfab.com/gpetr5288)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blue Mamba Car" (https://sketchfab.com/3d-models/blue-mamba-car-1dddc8a3d8cd4931a5c8f23ffa2d1954) by Linda (https://sketchfab.com/gpetr5288) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

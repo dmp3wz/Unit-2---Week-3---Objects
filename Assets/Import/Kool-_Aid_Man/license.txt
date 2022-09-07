@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kool- Aid Man
+* source:	https://sketchfab.com/3d-models/kool-aid-man-d3783da6a706437387bdd55f48b6ef9b
+* author:	etudesilver (https://sketchfab.com/etudesilver)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kool- Aid Man" (https://sketchfab.com/3d-models/kool-aid-man-d3783da6a706437387bdd55f48b6ef9b) by etudesilver (https://sketchfab.com/etudesilver) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
