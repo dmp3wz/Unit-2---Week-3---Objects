@@ -64,6 +64,10 @@ https://docs.unity3d.com/ScriptReference/Collider.OnTriggerExit.html
 
 ### Demon of Hatred
 <img src="https://user-images.githubusercontent.com/7291792/187091229-df150009-ed6c-4d7b-8640-3c79fa270cbd.png" width=200/>
+
 Do the above challenges, but build it all with the ProBuider package instead of primitives. 
+
+
+BONUS: Instead of boxes in Level part #4, make a REALISTIC stack of traffic cones (that is, they should stack as cones naturally stack)
 
 Add in a new game element of your choosing.
