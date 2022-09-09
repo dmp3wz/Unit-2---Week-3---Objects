@@ -2072,7 +2072,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   canPush: 1
-  strength: 3.04
+  strength: 5
 --- !u!1 &1538165139
 GameObject:
   m_ObjectHideFlags: 0
